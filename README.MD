@@ -1,5 +1,9 @@
 # Extensiones para VISUAL STUDIO CODE
 
+### Instalaciones Recomendadas:
+[1. VISUAL STUDIO CODE](https://code.visualstudio.com/)
+[2. NODE (Instalar Version LTS)](https://nodejs.org/es/)
+
 ### Complementos:
 [1. Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
