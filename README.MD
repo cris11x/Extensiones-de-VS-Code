@@ -21,7 +21,7 @@
 [1. Simple HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
 ### Iconos:
-[1. Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
+[1. Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ### JavaScript:
 [1. JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
