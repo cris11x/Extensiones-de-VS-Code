@@ -23,6 +23,7 @@
 [8. Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 * Presionar CTRL+SHIFT+P (Windows) o CTRL+SHIFT+P (MACOS) para abrir la ventana de comandos y escribimos "Format Document" y presionamos enter para formatear el codigo
+* Presionar CTRL+SHIFT+P (Windows) o CTRL+SHIFT+P (MACOS) para abrir la ventana de comandos y escribimos "Format Document" y presionamos enter para formatear el codigo
 ```
 "bracket-pair-colorizer-2.colors": [
     "#fafafa",
