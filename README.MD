@@ -2,6 +2,7 @@
 
 ### Instalaciones Recomendadas:
 [1. VISUAL STUDIO CODE](https://code.visualstudio.com/)
+
 [2. NODE (Instalar Version LTS)](https://nodejs.org/es/)
 
 ### Complementos:
