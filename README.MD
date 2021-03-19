@@ -24,7 +24,8 @@
 
 * Presionar CTRL+SHIFT+P (Windows) o CTRL+SHIFT+P (MACOS) para abrir la ventana de comandos y escribimos "Format Document" y presionamos enter para formatear el codigo.
 * Presionamos SHIFT+ALT+F para formatear directamente el codigo.
-* Para crear un archivo con configuraciones ya pre establecidas para fromatear el codigo ingresamos al sigueinte link [Enlace] (https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+* Para crear un archivo con configuraciones ya pre establecidas para fromatear el codigo ingresamos al sigueinte link
+[Enlace](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 ```
 "bracket-pair-colorizer-2.colors": [
     "#fafafa",
