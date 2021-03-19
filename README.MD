@@ -25,16 +25,28 @@
 * Presionar CTRL+SHIFT+P (Windows) o CTRL+SHIFT+P (MACOS) para abrir la ventana de comandos y escribimos "Format Document" y presionamos enter para formatear el codigo.
 * Presionamos SHIFT+ALT+F para formatear directamente el codigo.
 * Para crear un archivo con configuraciones ya pre establecidas para fromatear el codigo ingresamos al sigueinte link
-[Enlace](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+[Enlace](https://prettier.io/playground/) despues de especificar las configuraciones,  dentro de un proyecto crea un archivo llamado ".prettierrc" y pegamos en JSON que genero el enlace
 ```
-"bracket-pair-colorizer-2.colors": [
-    "#fafafa",
-    "#9F51B6",
-    "#F7C244",
-    "#F07850",
-    "#9CDD29",
-    "#C497D4"
-],
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "embeddedLanguageFormatting": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false
+}
+
 ```
 
 [9. TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
