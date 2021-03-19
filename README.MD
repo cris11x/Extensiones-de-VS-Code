@@ -20,7 +20,19 @@
 
 [7. Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
-[8. TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+[8. Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+```
+"bracket-pair-colorizer-2.colors": [
+    "#fafafa",
+    "#9F51B6",
+    "#F7C244",
+    "#F07850",
+    "#9CDD29",
+    "#C497D4"
+],
+```
+
+[9. TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 ### HTML/CSS:
 [1. Simple HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
