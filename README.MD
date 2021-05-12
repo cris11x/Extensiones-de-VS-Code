@@ -78,3 +78,12 @@
 [1. JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
 
 [2. TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
+
+### Angular(Fraamework)
+[1. Angular Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+
+[2. Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+
+[3. angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
+
+[4. TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
